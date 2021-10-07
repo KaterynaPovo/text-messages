@@ -2,8 +2,15 @@
   height: 50px;
   border: 5px solid black;
   padding: 15px 0 0 15px;
+  display: flex;
 }
 
+#firstBlock #firstScrn{
+  width: 5rem;
+  height: 2rem;
+  position: absolute;
+  left: 5%;
+}
 span {
   color: red;
 }
